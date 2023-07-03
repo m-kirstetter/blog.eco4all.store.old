@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "The Green Revolution: Embracing an Eco-friendly Lifestyle"
-date: 2016-12-17T15:04:10.000Z
+date: 2023-07-03T21:31:16.864Z
 description: As we look around us, we can't ignore the visible impacts of
   climate change and environmental degradation. Devastating wildfires, rising
   sea levels, erratic weather patterns - these are stark reminders that our
