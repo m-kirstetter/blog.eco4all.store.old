@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
 import logo from "../img/logo.svg";
 
 const Navbar = class extends React.Component {
@@ -41,9 +40,14 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <Link to="/" className="navbar-item" title="Eco for All - Sustainable Lifestyle">
+              <div className="brand-text">
+                Eco for All
+              </div>
             </Link>
+            {/* <Link to="/" className="" title="Logo">
+              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            </Link> */}
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -64,9 +68,9 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                Our Project
               </Link>
-              <Link className="navbar-item" to="/products">
+              {/* <Link className="navbar-item" to="/products">
                 Products
               </Link>
               <Link className="navbar-item" to="/blog">
@@ -77,19 +81,7 @@ const Navbar = class extends React.Component {
               </Link>
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
+              </Link> */}
             </div>
           </div>
         </div>

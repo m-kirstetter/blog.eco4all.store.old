@@ -1,21 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Eco4All - Blog
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Eco4All - Blog
+subheading: Your Guide to an Eco-Conscious Lifestyle
 mainpitch:
-  title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Eco4All is your one-stop destination for embarking on an eco-conscious lifestyle journey. Our blog aspires to bring together a community of like-minded individuals seeking to make a positive impact on our planet. From sharing tips on sustainable fashion and eco-friendly household products to providing guides on crafting sustainability at home, we aim to educate, inspire, and empower our readers to take meaningful steps towards a greener lifestyle.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  In an era where our daily choices have far-reaching implications for the environment, we believe that every effort, no matter how small, counts. Whether you're a seasoned sustainability advocate or a green living novice, Eco4All offers a wealth of information and practical advice to help you reduce your ecological footprint. Together, let's embrace this journey towards a sustainable future, one eco-friendly step at a time.
 intro:
   blurbs:
     - image: /img/coffee.png
