@@ -6,7 +6,7 @@ description: "As you embark on your journey towards an eco-friendly lifestyle,
   you might wonder where to start. The answer is simple: small, sustainable
   changes. Here are ten simple ways to help you become a part of the Green
   Revolution."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - Eco-friendly Living
